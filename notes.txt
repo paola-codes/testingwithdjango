@@ -18,8 +18,8 @@
 # To ignore some files from "flake8", create file named
 # "setup.cfg." Look at the file created for guidance
 # 
-# 
-# 
+# I went to github actions, and clicked "configure" in
+# the basic pyhton package option "it only said python package"
 # 
 # 
 # 
