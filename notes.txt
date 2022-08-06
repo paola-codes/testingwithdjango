@@ -1,0 +1,34 @@
+# Notes:
+# ----------------------------------------------------------
+# I installed "pip install coverage"
+# Then, I ran "coverage run manage.py test"
+# You can then check "coverage report"
+# To have a coverage gui, do "coverage html"
+# To ignore some files inside of coverage, do the following:
+# coverage run --omit='*/venv/' manage.py test
+# coverage html
+# 
+# Everytime you make a new test, update the coverage
+# with "coverage html"
+# 
+# PEP8 is the doc with guidelines to write good python
+# We installed flake8 to enforce that styling guide
+# 
+# Then, you can run "flake8" on the terminal
+# To ignore some files from "flake8", create file named
+# "setup.cfg." Look at the file created for guidance
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# Use cls to clean the terminal
+#
+# 
+# 
+# ----------------------------------------------------------
