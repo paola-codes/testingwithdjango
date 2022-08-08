@@ -1,4 +1,4 @@
-# Testing with Django
+# Automated Testing with Django
 
 
 This a follow-along project from Very Academy's django testing course at https://www.youtube.com/watch?v=qJPLFDtEi1I
