@@ -24,7 +24,7 @@
 # coverage report is for terminal
 # coverage html is for browser
 # 
-# 
+# Create requirements.txt with: pip freeze > requirements.txt
 # 
 # 
 # Use cls to clean the terminal
