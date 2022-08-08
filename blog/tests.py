@@ -11,7 +11,7 @@ class ModelTesting(TestCase):
     def test_post_model(self):
         muffin = self.blog
         # Checking if 'muffin' is an
-        # instance of 'Post' dabatase
+        # instance of 'Post' dabatase.
         self.assertTrue(isinstance(muffin, Post))
         # Checking the string returned by a Post
         # instance, a title called 'chocolate''
