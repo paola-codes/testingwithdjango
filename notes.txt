@@ -21,8 +21,8 @@
 # I went to github actions, and clicked "configure" in
 # the basic pyhton package option "it only said python package"
 # 
-# 
-# 
+# coverage report is for terminal
+# coverage html is for browser
 # 
 # 
 # 
